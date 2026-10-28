@@ -14,7 +14,7 @@ En el día a día reviso alertas, investigo incidentes y escribo reglas de detec
 ## Herramientas
 
 <!-- Deja solo las que uses de verdad -->
-- SIEM: QRadar, Microsoft Sentinel, Wazuh, Elastic, Theia
+- SIEM: QRadar, Microsoft Sentinel, Wazuh, Elastic
 - EDR: CrowdStrike, Bitdefender
 - NDR: ExtraHop
 - Análisis: Wireshark, VirusTotal, AbuseIPDB, CyberChef, Any.Run
